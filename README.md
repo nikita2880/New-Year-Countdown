@@ -1,14 +1,15 @@
-# New-Year-Countdown
+# 🥂 New-Year-Countdown 🥂
 
-## Features
+## 😲 Features
 
--  New year countdown
--  Javascript Mousemove
--  Animated emoji eyes follow the mouse cursor
--  Custom mouse cursor on body
--  Awesome UI
--  Firework animation
--  Firework trigger button
+👉  Javascript Mousemove <br/>
+👉  Animated emoji eyes follow the mouse cursor<br/>
+👉  Custom mouse cursor on body<br/>
+👉  Firework animation<br/>
+👉  Firework trigger button<br/>
 
-> Hit the trigger button located on the left bottom and see the magic! It will wish you a happy new year.
+### 👀 Sneak-Peak 
+
+
+> Hit the trigger button located at the bottom to fire the crackers!! 🎆
 
