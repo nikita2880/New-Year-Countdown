@@ -8,8 +8,10 @@
 👉  Firework animation<br/>
 👉  Firework trigger button<br/>
 
-### 👀 Sneak-Peak 
-
-
 > Hit the trigger button located at the bottom to fire the crackers!! 🎆
+> 
+## 👀 Sneak-Peak :
+![](1.png)
 
+## 👀 Trigger Mode :
+![](2.png)
