@@ -8,7 +8,7 @@
 👉  Firework animation<br/>
 👉  Firework trigger button<br/>
 
-> Hit the trigger button located at the bottom to fire the crackers!! 🎆
+> Hit the trigger button located at the bottom to fire the crackers! 🎆
 > 
 ## 👀 Sneak-Peak :
 ![](1.png)
