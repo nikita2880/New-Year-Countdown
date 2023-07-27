@@ -1,6 +1,6 @@
 # 🥂 New-Year-Countdown 🥂
 
-## 😲 Features:
+## 😲 Features :
 
 👉  Javascript Mousemove <br/>
 👉  Animated emoji eyes follow the mouse cursor<br/>
